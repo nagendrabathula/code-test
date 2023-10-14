@@ -10,8 +10,8 @@ DB Name : testdb
 
 ![Alt text](image.png)
 
-# Swagger Url : Use Swagger UI to test the Apis
-Swagger Ur  : http://localhost:9292/swagger-ui.html
+# Swagger Url : Use Swagger UI to test these Apis
+Swagger Url  : http://localhost:9292/swagger-ui.html
 
 
 1.API to cretae Employee : POST Method
