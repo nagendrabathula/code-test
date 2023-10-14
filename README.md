@@ -13,6 +13,9 @@ DB Name : testdb
 # Swagger Url : Use Swagger UI to test these Apis
 Swagger Url  : http://localhost:9292/swagger-ui.html
 
+![image](https://github.com/nagendrabathula/code-test/assets/16030571/dc1e48a6-8a53-4690-8f99-7de787bafc54)
+
+
 
 1.API to cretae Employee : POST Method
 
